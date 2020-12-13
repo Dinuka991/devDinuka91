@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "apluse-bd607": {
+      "hosting": {
+        "portfolioStarterPack": [
+          "apluse-bd607"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "apluse-bd607"
+  }
+}
